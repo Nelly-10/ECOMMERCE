@@ -34,5 +34,5 @@ This project demonstrates a full checkout flow — from cart management to secur
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Nelly-10/ECOMMERCE.git
 cd your-repo-name
